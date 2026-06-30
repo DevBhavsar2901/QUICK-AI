@@ -14,25 +14,6 @@ An AI-powered full-stack web application that brings multiple AI tools into one 
 
 ---
 
-# 📖 Table of Contents
-
-- Overview
-- Features
-- Tech Stack
-- Architecture
-- Project Structure
-- Installation
-- Environment Variables
-- Running the Project
-- Application Workflow
-- API Overview
-- Screenshots
-- Future Improvements
-- Contributing
-- Author
-
----
-
 # 📌 Overview
 
 QUICK-AI is a modern **MERN Stack** application designed to provide various AI-powered utilities from a single dashboard. Instead of switching between multiple AI websites, users can access everything in one place.
