@@ -39,18 +39,6 @@ Generate high-quality content within seconds.
 
 ---
 
-## 💻 AI Code Assistant
-
-Perfect for developers.
-
-- Generate Code
-- Debug Code
-- Explain Algorithms
-- Optimize Programs
-- Convert Programming Languages
-
----
-
 ## 🖼 AI Image Generator
 
 Create AI-generated images from text prompts.
@@ -122,25 +110,3 @@ Improve your writing instantly.
 
 - OpenAI API
 - AI Image Generation API
-
-### Deployment
-
-- Vercel
-- Render
-- MongoDB Atlas
-
----
-
-# 🏗 System Architecture
-                User
-                  │
-                  ▼
-      React + Tailwind Frontend
-                  │
-            Axios API Requests
-                  │
-                  ▼
-        Express.js REST API
-                  │
-   ┌──────────────┴──────────────┐
-   │                             │
